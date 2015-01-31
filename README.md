@@ -3,9 +3,9 @@
 MinGW modded without additional dll required after compilation !
 
 ### Run ?
-'''
+```
 run_console.bat
-'''
+```
 
 ### Included
 
@@ -14,3 +14,9 @@ run_console.bat
 * gcc
 * gdb
 * and more nice tools !
+
+### Links
+```
+Official MinGW Website
+http://www.mingw.org/
+```
